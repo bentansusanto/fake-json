@@ -1,0 +1,130 @@
+{
+    "cafe" : [
+        {
+            "id" : 1,
+            "kategori" : "cofeee",
+            "title" : "Coffee Americano",
+            "price" : "2.45",
+            "image" : "americano.jpg"
+        },
+        {
+            "id" : 2,
+            "kategori" : "cofeee",
+            "title" : "Coffee Late",
+            "price" : "2.52",
+            "image" : "coffeelate.jpg"
+        },
+        {
+            "id" : 3,
+            "kategori" : "cofeee",
+            "title" : "Coffee Cappucinno",
+            "price" : "2.5",
+            "image" : "cappucino.jpg"
+        },
+        {
+            "id" : 4,
+            "kategori" : "cofeee",
+            "title" : "Coffee Moca",
+            "price" : "2.35",
+            "image" : "coffeemoca.jpg"
+        },
+        {
+            "id" : 5,
+            "kategori" : "cofeee",
+            "title" : "Coffee Moca Late",
+            "price" : "2.35",
+            "image" : "coffeemocalate.jpg"
+        },
+        {
+            "id" : 6,
+            "kategori" : "cofeee",
+            "title" : "Coffee 360",
+            "price" : "2.35",
+            "image" : "coffee360.jpg"
+        },
+        {
+            "id" : 7,
+            "kategori" : "non coffee",
+            "title" : "Ice Tea",
+            "price" : "2.25",
+            "image" : "icetea.jpg"
+        },
+        {
+            "id" : 8,
+            "kategori" : "non coffee",
+            "title" : "Lemon Tea",
+            "price" : "2.25",
+            "image" : "lemontea.jpg"
+        },
+        {
+            "id" : 9,
+            "kategori" : "non coffee",
+            "title" : "Milk Tea",
+            "price" : "2.25",
+            "image" : "milktea.jpg"
+        },
+        {
+            "id" : 10,
+            "kategori" : "non coffee",
+            "title" : "Green Tea",
+            "price" : "2.54",
+            "image" : "greentea.jpg"
+        },
+        {
+            "id" : 11,
+            "kategori" : "non coffee",
+            "title" : "Chockelat Tea",
+            "price" : "2.25",
+            "image" : "chockelattea.jpg"
+        },
+        {
+            "id" : 12,
+            "kategori" : "non coffee",
+            "title" : "Red Velvet",
+            "price" : "2.8",
+            "image" : "redvelvet.jpg"
+        },
+        {
+            "id" : 13,
+            "kategori" : "bread",
+            "title" : "Crossaint",
+            "price" : "3.2",
+            "image" : "crossaint.jpg"
+        },
+        {
+            "id" : 14,
+            "kategori" : "bread",
+            "title" : "Moca Bread",
+            "price" : "2.8",
+            "image" : "mocabread.jpg"
+        },
+        {
+            "id" : 15,
+            "kategori" : "bread",
+            "title" : "Chockelat Bread",
+            "price" : "2.8",
+            "image" : "chockelatbread.jpg"
+        },
+        {
+            "id" : 16,
+            "kategori" : "bread",
+            "title" : "Coffee Bread",
+            "price" : "2.9",
+            "image" : "coffeebread.jpg"
+        },
+        {
+            "id" : 17,
+            "kategori" : "bread",
+            "title" : "Moca Cake",
+            "price" : "4.2",
+            "image" : "mocacake.jpg"
+        },
+        {
+            "id" : 18,
+            "kategori" : "bread",
+            "title" : "Velvet Cake",
+            "price" : "4.5",
+            "image" : "velvetcake.jpg"
+        }
+    ]
+}

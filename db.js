@@ -1,13 +1,12 @@
-const items = require("./data/items");
-const tags = require("./data/tags");
-const brands = require("./data/brands");
-const itemTypes = require("./data/itemTypes");
+const cafeProduct = require("./data/cafeproduct.json");
+const fooddrinks = require("./data/fooddrink.json");
+const tour = require("./data/tour.json");
+
 
 module.exports = {
-  items,
-  tags,
-  brands,
-  itemTypes
+  cafeProduct,
+  fooddrinks,
+  tour
 }
 
 

@@ -1,0 +1,84 @@
+{
+    "fooddrinks" : [
+        {
+            "id" : 1,
+            "title" : "Mie Lendir",
+            "category" : "food",
+            "desc" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+            "rating" : 4.5,
+            "image" : "http://surl.li/cthqv"
+        },
+        {
+            "id" : 2,
+            "title" : "Gonggong",
+            "category" : "food",
+            "desc" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+            "rating" : 4.6,
+            "image" : "http://surl.li/cthra"
+        },
+        {
+            "id" : 3,
+            "title" : "Mie Sagu",
+            "category" : "food",
+            "desc" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+            "rating" : 4.5,
+            "image" : "https://sitimustiani.com/wp-content/uploads/2019/10/mie-sagu-pontianak-2048x1365.jpg"
+        },
+        {
+            "id" : 4,
+            "title" : "Teh Obeng",
+            "category" : "drink",
+            "desc" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+            "rating" : 4.6,
+            "image" : "https://www.itrip.id/wp-content/uploads/2020/08/Teh-Obeng.jpg"
+        },
+        {
+            "id" : 5,
+            "title" : "Teh Bunga Rosella",
+            "category" : "drink",
+            "desc" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+            "rating" : 4.6,
+            "image" : "https://www.itrip.id/wp-content/uploads/2020/08/Teh-Bunga-Rosella.jpg"
+        },
+        {
+            "id" : 6,
+            "title" : "Luti Gendang",
+            "category" : "food",
+            "desc" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+            "rating" : 4.4,
+            "image" : "https://www.itrip.id/wp-content/uploads/2020/08/Luti-Gendang.jpg"
+        },
+        {
+            "id" : 7,
+            "title" : "Otak-Otak Batam",
+            "category" : "food",
+            "desc" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+            "rating" : 4.5,
+            "image" : "https://www.itrip.id/wp-content/uploads/2020/08/Teh-Bunga-Rosella.jpg"
+        },
+        {
+            "id" : 8,
+            "title" : "Teh Tarik",
+            "category" : "drink",
+            "desc" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+            "rating" : 4.4,
+            "image" : "https://www.itrip.id/wp-content/uploads/2020/08/Teh-Tarik.jpg"
+        },
+        {
+            "id" : 9,
+            "title" : "Es Jagung Hawai",
+            "category" : "drink",
+            "desc" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+            "rating" : 4.5,
+            "image" : "https://cutt.ly/aXYfAAJ"
+        },
+        {
+            "id" : 10,
+            "title" : "Es Rumput Laut",
+            "category" : "drink",
+            "desc" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+            "rating" : 4.5,
+            "image" : "https://cutt.ly/FXYf9De"
+        }
+    ]
+}

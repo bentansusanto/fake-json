@@ -1,0 +1,52 @@
+{
+    "tour" : [
+        {
+            "id" : 1,
+            "name" : "Melur Beach",
+            "desc"  : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+            "lokasi" : "Barelang no. 10, Galang, Kota Batam",
+            "rating" : "4.5",
+            "image" : "https://glorypoint.id/wp-content/uploads/2015/03/IMG20210207091153.jpg"           
+        },
+        {
+            "id" : 2,
+            "name" : "Melayu Beach",
+            "desc"  : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+            "lokasi" : "Barelang no. 11, Galang, Kota Batam",
+            "rating" : "4.4",
+            "image" : "https://indonesia.allabout.city/wp-content/uploads/2020/04/Melayu-Beach.jpg"           
+        },
+        {
+            "id" : 3,
+            "name" : "Mirota Beach",
+            "desc"  : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+            "lokasi" : "Barelang no. 15, Galang, Kota Batam",
+            "rating" : "4.6",
+            "image" : "https://www.pantaipedia.com/wp-content/uploads/2018/10/Pantai-Mirota.jpg"           
+        },
+        {
+            "id" : 4,
+            "name" : "Mirota Beach",
+            "desc"  : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+            "lokasi" : "Barelang no. 18, Galang, Kota Batam",
+            "rating" : "4.6",
+            "image" : "https://www.pantaipedia.com/wp-content/uploads/2018/10/Pantai-Mirota.jpg"           
+        },
+        {
+            "id" : 5,
+            "name" : "Marina Beach",
+            "desc"  : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+            "lokasi" : "Nongsa no. 12, Kota Batam",
+            "rating" : "4.5",
+            "image" : "https://www.pantainesia.com/wp-content/uploads/2018/05/PANTAI-MARINA.jpg"           
+        },
+        {
+            "id" : 6,
+            "name" : "Tanjung Pinggir Beach",
+            "desc"  : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+            "lokasi" : "Sekupang no. 12, Kota Batam",
+            "rating" : "4.5",
+            "image" : "https://www.pesisir.net/wp-content/uploads/2022/01/Daya-Tarik-Pantai-Tanjung-Pinggir.jpg"           
+        }
+    ]
+}
