@@ -1,12 +1,14 @@
 const cafeProduct = require("./data/cafeproduct.json");
 const fooddrinks = require("./data/fooddrink.json");
 const tour = require("./data/tour.json");
+const tour = require("./data/foods.json");
 
 
 module.exports = {
   cafeProduct,
   fooddrinks,
-  tour
+  tour,
+  foods
 }
 
 
