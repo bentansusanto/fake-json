@@ -1,0 +1,198 @@
+{
+  "product": [
+    {
+      "id": 1,
+      "name": "Nasi Goreng Seafood",
+      "category": "Food",
+      "desc": "Makanan ini termasuk makanan paling laris di resto ini",
+      "price": 35000,
+      "image": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_640/v1607861399/b3qvw7ej5pq8wcfrtzm0.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Mie Goreng Seafood",
+      "category": "Food",
+      "desc": "Makanan ini termasuk makanan paling laris di resto ini",
+      "price": 30000,
+      "image": "https://cdn0-production-images-kly.akamaized.net/7neQI9RUCKsTsaIlC2zQEdNhX2M=/0x342:5989x3718/680x383/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/3930827/original/066100900_1644554867-shutterstock_1984582070.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Indomie Goreng Seafood",
+      "category": "Food",
+      "desc": "Makanan ini termasuk makanan paling laris di resto ini",
+      "price": 25000,
+      "image": "https://img.okezone.com/content/2019/01/23/298/2008521/resep-makanan-kesukaan-ahok-mi-goreng-seafood-dan-ayam-ketumbar-yang-lezat-IkjmxXAH2H.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Udang Goreng Tepung",
+      "category": "Food",
+      "desc": "Makanan ini termasuk makanan paling laris di resto ini",
+      "price": 32000,
+      "image": ""
+    },
+    {
+      "id": 5,
+      "name": "Teh Obeng",
+      "category": "Drink",
+      "desc": "Makanan ini termasuk makanan paling laris di resto ini",
+      "price": 5000,
+      "image": ""
+    },
+    {
+      "id": 6,
+      "name": "Teh Hangat",
+      "category": "Drink",
+      "desc": "Makanan ini termasuk makanan paling laris di resto ini",
+      "price": 4000,
+      "image": ""
+    },
+    {
+      "id": 7,
+      "name": "Lemon Tea",
+      "category": "Drink",
+      "desc": "Makanan ini termasuk makanan paling laris di resto ini",
+      "price": 6000,
+      "image": ""
+    },
+    {
+      "id": 8,
+      "name": "Cappucino",
+      "category": "Drink",
+      "desc": "Makanan ini termasuk makanan paling laris di resto ini",
+      "price": 8000,
+      "image": ""
+    },
+    {
+      "id": 9,
+      "name": "Susu Hangat",
+      "category": "Drink",
+      "desc": "Makanan ini termasuk makanan paling laris di resto ini",
+      "price": 8000,
+      "image": ""
+    },
+    {
+      "id": 10,
+      "name": "Air mineral",
+      "category": "Drink",
+      "desc": "Makanan ini termasuk makanan paling laris di resto ini",
+      "price": 4000,
+      "image": ""
+    },
+    {
+      "id": 11,
+      "name": "Cumi Goreng Tepung",
+      "category": "Food",
+      "desc": "Makanan ini termasuk makanan paling laris di resto ini",
+      "price": 32000,
+      "image": ""
+    },
+    {
+      "id": 12,
+      "name": "Udang Cumi Goreng Tepung",
+      "category": "Food",
+      "desc": "Makanan ini termasuk makanan paling laris di resto ini",
+      "price": 32000,
+      "image": ""
+    },
+    {
+      "id": 13,
+      "name": "Udang Saos Asam Manis",
+      "category": "Food",
+      "desc": "Makanan ini termasuk makanan paling laris di resto ini",
+      "price": 28000,
+      "image": ""
+    },
+    {
+      "id": 14,
+      "name": "Cumi Saos Asam Manis",
+      "category": "Food",
+      "desc": "Makanan ini termasuk makanan paling laris di resto ini",
+      "price": 28000,
+      "image": ""
+    },
+    {
+      "id": 15,
+      "name": "Mie Basah Goreng Seafood",
+      "category": "Food",
+      "desc": "Makanan ini termasuk makanan paling laris di resto ini",
+      "price": 25000,
+      "image": ""
+    },
+    {
+      "id": 16,
+      "name": "Mie Hun Goreng Seafood",
+      "category": "Food",
+      "desc": "Makanan ini termasuk makanan paling laris di resto ini",
+      "price": 25000,
+      "image": ""
+    },
+    {
+      "name": "Kwetiaw Goreng Seafood",
+      "category": "Food",
+      "desc": "Makanan ini termasuk makanan paling laris di resto ini",
+      "price": 35000,
+      "image": "",
+      "id": 17
+    },
+    {
+      "name": "Kwetiaw Goreng Ayam",
+      "category": "Food",
+      "desc": "Makanan ini termasuk makanan paling laris di resto ini",
+      "price": 24000,
+      "image": "",
+      "id": 18
+    },
+    {
+      "name": "Kwetiaw Goreng Bakso Sosis",
+      "category": "Food",
+      "desc": "Makanan ini termasuk makanan paling laris di resto ini",
+      "price": 24000,
+      "image": "",
+      "id": 19
+    },
+    {
+      "name": "Mie Goreng Bakso Sosis",
+      "category": "Food",
+      "desc": "Makanan ini termasuk makanan paling laris di resto ini",
+      "price": 24000,
+      "image": "",
+      "id": 20
+    },
+    {
+      "name": "Mie Basah Goreng Bakso Sosis",
+      "category": "Food",
+      "desc": "Makanan ini termasuk makanan paling laris di resto ini",
+      "price": 24000,
+      "image": "",
+      "id": 21
+    },
+    {
+      "name": "Indomie Goreng Bakso Sosis",
+      "category": "Food",
+      "desc": "Makanan ini termasuk makanan paling laris di resto ini",
+      "price": 24000,
+      "image": "",
+      "id": 22
+    },
+    {
+      "name": "Indomie Goreng Ayam Suir",
+      "category": "Food",
+      "desc": "Makanan ini termasuk makanan paling laris di resto ini",
+      "price": 24000,
+      "image": "",
+      "id": 23
+    },
+    {
+      "name": "Mie Basah Goreng Ayam",
+      "category": "Food",
+      "desc": "Makanan ini termasuk makanan paling laris di resto ini",
+      "price": 24000,
+      "image": "",
+      "id": 24
+    }
+  ],
+  "cart": [],
+  "checkout": []
+}
